@@ -1,7 +1,7 @@
 import unittest
 
-from src.python_examples.classes.basic_class_example.AttributeOverriding import AttributeOverriding
-from src.python_examples.classes.basic_class_example.InstanceVariables import InstanceVariables
+from src.com.github.lazyf1sh.sandbox.python.classes import AttributeOverriding
+from src.com.github.lazyf1sh.sandbox.python.classes.basic_class_example.InstanceVariables import InstanceVariables
 
 
 class MyTest2(unittest.TestCase):

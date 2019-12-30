@@ -1,6 +1,6 @@
-from src.python_examples.classes.basic_class_example.InitMethod import InitMethod
-from src.python_examples.classes.basic_class_example.InitMethodArgs import InitMethodArgs
-from src.python_examples.classes.basic_class_example.MyClass import MyClass
+from src.com.github.lazyf1sh.sandbox.python.classes import InitMethod
+from src.com.github.lazyf1sh.sandbox.python.classes import InitMethodArgs
+from src.com.github.lazyf1sh.sandbox.python.classes import MyClass
 
 # default way to call a class method
 x = MyClass()
